@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+torch
+beautifulsoup4
+numpy
+pandas
+axios
+datasets
+joblib
+scikit-learn
